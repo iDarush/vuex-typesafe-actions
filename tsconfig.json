@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "es2015",
+        "moduleResolution": "node",
+        "strict": true,
+        "importHelpers": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": false,
+        "lib": [
+            "esnext",
+            "dom",
+            "dom.iterable"
+        ]
+    },
+    "include": [
+        "index.ts",
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

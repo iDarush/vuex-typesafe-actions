@@ -1,0 +1,32 @@
+{
+  "name": "vuex-typesafe-actions",
+  "version": "0.0.1",
+  "description": "Vuex with action creaters and type checking",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iDarush/vuex-typesafe-actions.git"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "typescript",
+    "actions"
+  ],
+  "author": "Darya Savelova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iDarush/vuex-typesafe-actions/issues"
+  },
+  "homepage": "https://github.com/iDarush/vuex-typesafe-actions#readme",
+  "dependencies": {
+    "vue": "^2.6.12",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}
